@@ -1,9 +1,9 @@
-package com.silverpalm.banking.gui.controller;
+package OOADAssignment.com.silverpalm.banking.gui.controller;
 
-import com.silverpalm.banking.core.service.BankingService;
-import com.silverpalm.banking.dao.CustomerDao;
-import com.silverpalm.banking.gui.BankingApp;
-import com.silverpalm.banking.gui.view.TellerDashboardView;
+import OOADAssignment.com.silverpalm.banking.core.service.BankingService;
+import OOADAssignment.com.silverpalm.banking.dao.CustomerDao;
+import OOADAssignment.com.silverpalm.banking.gui.BankingApp;
+import OOADAssignment.com.silverpalm.banking.gui.view.TellerDashboardView;
 import javafx.scene.control.Alert;
 
 public class TellerDashboardController {
@@ -78,12 +78,12 @@ public class TellerDashboardController {
     }
 
     private void registerIndividual() {
-        new com.silverpalm.banking.gui.view.RegisterIndividualDialog().showAndWait();
+        new OOADAssignment.com.silverpalm.banking.gui.view.RegisterIndividualDialog().showAndWait();
         loadCustomers();
     }
 
     private void registerCompany() {
-        new com.silverpalm.banking.gui.view.RegisterCompanyDialog().showAndWait();
+        new OOADAssignment.com.silverpalm.banking.gui.view.RegisterCompanyDialog().showAndWait();
         loadCustomers();
     }
 
@@ -94,6 +94,6 @@ public class TellerDashboardController {
             return;
         }
         String customerId = cust.split(" – ")[0];
-        new com.silverpalm.banking.gui.view.OpenAccountDialog(customerId).showAndWait();
+        new OOADAssignment.com.silverpalm.banking.gui.view.OpenAccountDialog(customerId).showAndWait();
     }
 }

@@ -1,4 +1,4 @@
-package com.silverpalm.banking.core.exception;
+package OOADAssignment.com.silverpalm.banking.core.exception;
 
 /**
  * Custom exception for banking operations

@@ -1,8 +1,8 @@
-package com.silverpalm.banking.dao;
+package OOADAssignment.com.silverpalm.banking.dao;
 
-import com.silverpalm.banking.core.model.Customer;
-import com.silverpalm.banking.core.model.CustomerType;
-import com.silverpalm.banking.core.model.Gender;
+import OOADAssignment.com.silverpalm.banking.core.model.Customer;
+import OOADAssignment.com.silverpalm.banking.core.model.CustomerType;
+import OOADAssignment.com.silverpalm.banking.core.model.Gender;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package com.silverpalm.banking.core.model;
+package OOADAssignment.com.silverpalm.banking.core.model;
 
-import com.silverpalm.banking.core.exception.BankingException;
+import OOADAssignment.com.silverpalm.banking.core.exception.BankingException;
 
 /**
  * Investment Account implementation

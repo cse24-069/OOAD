@@ -1,6 +1,6 @@
-package com.silverpalm.banking.dao;
+package OOADAssignment.com.silverpalm.banking.dao;
 
-import com.silverpalm.banking.core.model.Transaction;
+import OOADAssignment.com.silverpalm.banking.core.model.Transaction;
 import java.util.*;
 import java.util.stream.Collectors;
 

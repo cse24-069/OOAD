@@ -1,4 +1,4 @@
-package com.silverpalm.banking.core.model;
+package OOADAssignment.com.silverpalm.banking.core.model;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

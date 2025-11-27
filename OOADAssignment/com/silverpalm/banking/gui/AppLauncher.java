@@ -1,4 +1,4 @@
-package com.silverpalm.banking.gui;
+package OOADAssignment.com.silverpalm.banking.gui;
 
 import javafx.application.Application;
 

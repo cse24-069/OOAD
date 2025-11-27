@@ -1,7 +1,7 @@
-package com.silverpalm.banking.dao;
+package OOADAssignment.com.silverpalm.banking.dao;
 
-import com.silverpalm.banking.core.model.*;
-import com.silverpalm.banking.core.exception.BankingException;
+import OOADAssignment.com.silverpalm.banking.core.model.*;
+import OOADAssignment.com.silverpalm.banking.core.exception.BankingException;
 
 import java.math.BigDecimal;
 import java.sql.*;

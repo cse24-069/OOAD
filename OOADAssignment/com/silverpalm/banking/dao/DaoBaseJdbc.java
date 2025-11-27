@@ -1,4 +1,4 @@
-package com.silverpalm.banking.dao;
+package OOADAssignment.com.silverpalm.banking.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

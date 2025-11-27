@@ -1,4 +1,4 @@
-package com.silverpalm.banking.core.model;
+package OOADAssignment.com.silverpalm.banking.core.model;
 
 /**
  * Types of transactions that can be performed

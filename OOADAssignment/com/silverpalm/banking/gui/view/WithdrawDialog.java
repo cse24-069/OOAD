@@ -1,6 +1,6 @@
-package com.silverpalm.banking.gui.view;
+package OOADAssignment.com.silverpalm.banking.gui.view;
 
-import com.silverpalm.banking.core.service.BankingService;
+import OOADAssignment.com.silverpalm.banking.core.service.BankingService;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.*;

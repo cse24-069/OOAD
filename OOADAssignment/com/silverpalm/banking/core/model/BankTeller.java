@@ -1,4 +1,4 @@
-package com.silverpalm.banking.core.model;
+package OOADAssignment.com.silverpalm.banking.core.model;
 
 /**
  * Represents a bank teller with authentication and administrative privileges

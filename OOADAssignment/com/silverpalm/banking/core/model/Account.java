@@ -1,10 +1,10 @@
-package com.silverpalm.banking.core.model;
+package OOADAssignment.com.silverpalm.banking.core.model;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.silverpalm.banking.core.exception.BankingException;
+import OOADAssignment.com.silverpalm.banking.core.exception.BankingException;
 
 /**
  * Abstract base class for all account types

@@ -1,8 +1,8 @@
-package com.silverpalm.banking.gui.controller;
+package OOADAssignment.com.silverpalm.banking.gui.controller;
 
-import com.silverpalm.banking.core.service.BankingService;
-import com.silverpalm.banking.gui.BankingApp;
-import com.silverpalm.banking.gui.view.LoginView;
+import OOADAssignment.com.silverpalm.banking.core.service.BankingService;
+import OOADAssignment.com.silverpalm.banking.gui.BankingApp;
+import OOADAssignment.com.silverpalm.banking.gui.view.LoginView;
 import javafx.scene.control.Alert;
 
 public class LoginController {

@@ -1,9 +1,9 @@
-package com.silverpalm.banking.gui.view;
+package OOADAssignment.com.silverpalm.banking.gui.view;
 
-import com.silverpalm.banking.core.model.AccountType;
-import com.silverpalm.banking.core.model.CustomerType;
-import com.silverpalm.banking.core.service.BankingService;
-import com.silverpalm.banking.core.exception.BankingException;
+import OOADAssignment.com.silverpalm.banking.core.model.AccountType;
+import OOADAssignment.com.silverpalm.banking.core.model.CustomerType;
+import OOADAssignment.com.silverpalm.banking.core.service.BankingService;
+import OOADAssignment.com.silverpalm.banking.core.exception.BankingException;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.*;

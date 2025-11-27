@@ -1,6 +1,6 @@
-package com.silverpalm.banking.dao;
+package OOADAssignment.com.silverpalm.banking.dao;
 
-import com.silverpalm.banking.core.model.Customer;
+import OOADAssignment.com.silverpalm.banking.core.model.Customer;
 import java.util.List;
 
 public interface ICustomerDao {

@@ -1,18 +1,18 @@
-package com.silverpalm.banking.gui;
+package OOADAssignment.com.silverpalm.banking.gui;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 import java.util.List;
 import java.util.Scanner;
 
-import com.silverpalm.banking.core.exception.BankingException;
-import com.silverpalm.banking.core.model.Account;
-import com.silverpalm.banking.core.model.BankTeller;
-import com.silverpalm.banking.core.model.Customer;
-import com.silverpalm.banking.core.model.CustomerType;
-import com.silverpalm.banking.core.model.Gender;
-import com.silverpalm.banking.core.model.Transaction;
-import com.silverpalm.banking.core.service.BankingService;
+import OOADAssignment.com.silverpalm.banking.core.exception.BankingException;
+import OOADAssignment.com.silverpalm.banking.core.model.Account;
+import OOADAssignment.com.silverpalm.banking.core.model.BankTeller;
+import OOADAssignment.com.silverpalm.banking.core.model.Customer;
+import OOADAssignment.com.silverpalm.banking.core.model.CustomerType;
+import OOADAssignment.com.silverpalm.banking.core.model.Gender;
+import OOADAssignment.com.silverpalm.banking.core.model.Transaction;
+import OOADAssignment.com.silverpalm.banking.core.service.BankingService;
 
 public class BankApplication {
     private static BankingService bankingService = BankingService.getInstance();
